@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="050439d4-2e15-4e06-b7db-b988e10c2630" name="Changes" comment="AppleMade">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snake.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GameFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GamePanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SnakeGame.java" afterDir="false" />
+    <list default="true" id="050439d4-2e15-4e06-b7db-b988e10c2630" name="Changes" comment="git commit -m&quot;appleMade&quot;&#10;git push">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GamePanel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,10 +47,19 @@
       <option name="presentableId" value="Default" />
       <updated>1679735205120</updated>
     </task>
+    <task id="LOCAL-00001" summary="git commit -m&quot;appleMade&quot;">
+      <created>1679740566373</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679740566373</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="AppleMade" />
-    <option name="LAST_COMMIT_MESSAGE" value="AppleMade" />
+    <MESSAGE value="git commit -m&quot;appleMade&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="git commit -m&quot;appleMade&quot;" />
   </component>
 </project>
